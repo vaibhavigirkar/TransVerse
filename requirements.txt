@@ -1,0 +1,34 @@
+# Core framework
+Django==5.2
+asgiref==3.8.1
+sqlparse==0.5.3
+tzdata==2025.2
+
+# Translation
+googletrans==4.0.0rc1
+requests==2.31.0
+urllib3==2.2.1
+chardet==3.0.4
+charset-normalizer==3.3.2
+idna==2.10
+certifi==2024.2.2
+
+# Voice/Speech
+gTTS==2.5.1
+SpeechRecognition==3.10.1
+# PyAudio==0.2.14
+playsound==1.2.2
+
+# Audio support
+# pygame==2.5.2
+
+# Utility
+click==8.1.7
+colorama==0.4.6
+typing_extensions==4.10.0
+blinker==1.8.2
+
+# Packaging
+# pip==24.0
+# setuptools==65.5.0
+# wheel==0.43.0
